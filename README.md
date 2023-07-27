@@ -1,7 +1,8 @@
 # TrackingManagement
 
-!(TrackingManagement/img/1.png)
 
-!(TrackingManagement/img/2.png)
+![Dash board](TrackingManagement/img/1.png)
 
-!(TrackingManagement/img/3.png)
+![Driver](TrackingManagement/img/2.png)
+
+![Acount control](TrackingManagement/img/3.png)
